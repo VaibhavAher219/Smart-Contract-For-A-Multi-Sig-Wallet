@@ -47,10 +47,7 @@ This contract is released under the MIT License. You can find the full license t
 
 Contributions to this project are welcome. If you encounter any issues or have suggestions for improvements, please open an issue or submit a pull request on GitHub.
 
-## Disclaimer
-
-This contract is provided as-is, without any warranty or guarantee of its functionality or suitability for any specific purpose. Use it at your own risk. The developers and maintainers of this contract are not liable for any damages or losses incurred while using or interacting with it.
 
 ## Contact
 
-If you have any questions or need further assistance, please contact [insert contact information here].
+If you have any questions or need further assistance, please contact [(https://twitter.com/vaibhavva219)].
