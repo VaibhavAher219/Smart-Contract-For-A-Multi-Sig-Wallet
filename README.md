@@ -50,4 +50,4 @@ Contributions to this project are welcome. If you encounter any issues or have s
 
 ## Contact
 
-If you have any questions or need further assistance, please contact [(https://twitter.com/vaibhavva219)].
+If you have any questions or need further assistance, please contact [Twitter(https://twitter.com/vaibhavva219)].
